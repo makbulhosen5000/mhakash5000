@@ -1,16 +1,34 @@
-# Hi there 👋
+![Full-Stack Web Developer](https://media-exp1.licdn.com/dms/image/C4E03AQFVmZWEuTPlLw/profile-displayphoto-shrink_200_200/0/1660239225398?e=1668643200&v=beta&t=cxQh68UIfMXanv67iwWzYuhBMz9PekdJEUvVj8ioLFU)
 
-<!--
-**mhakash5000/mhakash5000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋, I am Md. Makbul Hosen
+#### Full-Stack Web Developer
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Full-Stack Web Developer
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have successfully designed, developed, and delivered a multitude of websites and web applications with complex front and back ends; from typical HTML/CSS/Bootstrap/PHP/Laravel/JavaScript/ReactJs/Rest API/MYSQL Server. I would love to help you achieve your objectives; simple or complex!
+
+Skills:  HTML / CSS / BOOTSTRAP / TAILWIND CSS / PHP / LARAVEL / JAVASCRIPT / REACT.JS / JSON / JAVA / GITHUB / BITBUCKET ETC
+
+- 🔭 I’m currently working on  CreTechBD 
+- 🌱 I’m currently learning React.js 
+- 👯 I’m looking to collaborate on github and linkedin 
+- 💬 Ask me about Frontend and Backend Web Development 
+- ⚡ Fun fact: Learning with fun 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mhakash5000)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/md-makbul-hosen-5620b1158//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/facebook.com/mhakash5000)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/https://codepen.io/pen/tour/welcome/start)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/11872291/mh-akash)  
+
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=mhakash5000)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhakash5000)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mhakash5000&show_icons=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mhakash5000)  
+
+![GitHub metrics](https://metrics.lecoq.io/mhakash5000)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mhakash5000)  
+
+![Profile views](https://gpvc.arturio.dev/mhakash5000)  
