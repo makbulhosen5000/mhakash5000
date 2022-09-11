@@ -8,7 +8,7 @@ I have successfully designed, developed, and delivered a multitude of websites a
 
 Skills:  HTML / CSS / BOOTSTRAP / TAILWIND CSS / PHP / LARAVEL / JAVASCRIPT / REACT.JS / JSON / JAVA / GITHUB / BITBUCKET ETC
 
-- 🔭 I’m currently working on  CreTechBD 
+- 🔭 I’m currently working on  school-management 
 - 🌱 I’m currently learning React.js 
 - 👯 I’m looking to collaborate on github and linkedin 
 - 💬 Ask me about Frontend and Backend Web Development 
