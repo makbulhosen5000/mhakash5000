@@ -1,4 +1,4 @@
-![Full-Stack Web Developer](https://media-exp1.licdn.com/dms/image/D5635AQGYB6DkAFpXmw/profile-framedphoto-shrink_200_200/0/1665162957203?e=1665982800&v=beta&t=YsMkYfYQ6jgaQBFxPt7LRcB73NuEaolVZWbcdamZ-70)
+![Full-Stack Web Developer](https://media-exp1.licdn.com/dms/image/D5616AQF6oMcjPauRkQ/profile-displaybackgroundimage-shrink_350_1400/0/1665378076749?e=1671062400&v=beta&t=bNn65BFw9j_Ha59LSnBABIxUb2BMDq6nLUzffi1VGKs)
 
 ### Hi there 👋, I am Md. Makbul Hosen
 #### A passionate Full-Stack Web Developer
