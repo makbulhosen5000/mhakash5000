@@ -6,7 +6,7 @@
 
 I have successfully designed, developed, and delivered a multitude of websites and web applications with complex front and back ends; from typical HTML/CSS/Bootstrap/PHP/Laravel/JavaScript/ReactJs/Rest API/MYSQL Server. I would love to help you achieve your objectives; simple or complex!
 
-Skills:  HTML / CSS / BOOTSTRAP / TAILWIND CSS / PHP / LARAVEL / JAVASCRIPT / REACT.JS / JSON / JAVA / GITHUB / BITBUCKET ETC
+Skills:  HTML / CSS / BOOTSTRAP / TAILWIND CSS / PHP / LARAVEL / JAVASCRIPT / JQERY / REACT.JS / JSON / REST API / JAVA / GITHUB / BITBUCKET ETC
 
 - 🔭 I’m currently working on  school-management 
 - 🌱 I’m currently learning React.js 
