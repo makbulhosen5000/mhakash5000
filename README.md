@@ -4,11 +4,11 @@
 #### A passionate Full-Stack Web Developer
 
 
-I have successfully designed, developed, and delivered a multitude of websites and web applications with complex front and back ends; from typical HTML/CSS/Bootstrap/PHP/Laravel/JavaScript/ReactJs/Rest API/MYSQL Server. I would love to help you achieve your objectives; simple or complex!
+I have successfully designed, developed, and delivered a multitude of websites and web applications with complex front and back ends; from typical HTML/CSS/Bootstrap/PHP/Laravel/JavaScript/ReactJs/Rest API/MYSQL Server/Mongodb. I would love to help you achieve your objectives; simple or complex!
 
 Skills:  HTML / CSS / BOOTSTRAP / TAILWIND CSS / PHP / LARAVEL / JAVASCRIPT / JQERY / REACT.JS / JSON / REST API / JAVA / GITHUB / BITBUCKET ETC
 
-- 🔭 I’m currently working on  (https://acelearningplus.piximstudio.com/) 
+- 🔭 I’m currently working on  (https://chef-recipe-hunter-clien-9a62a.web.app/) 
 - 🌱 I’m currently learning React.js 
 - 👯 I’m looking to collaborate on github and linkedin 
 - 💬 Ask me about Frontend and Backend Web Development 
